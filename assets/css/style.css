@@ -547,6 +547,7 @@ main {
 .service-tech-icons {
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 .service-tech-icons img {
@@ -963,6 +964,10 @@ main {
   }
 
   .service-content-box { text-align: left; }
+
+  .service-tech-icons {
+    justify-content: left;
+  }
 
 
 
